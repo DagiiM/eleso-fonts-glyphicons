@@ -1,7 +1,12 @@
-Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
+## Eleso Font Glyphs Demo
 
-To use the generated font in desktop programs, you can install the TTF font. In order to copy the character associated with each icon, refer to the text box at the bottom right corner of each glyph in demo.html. The character inside this text box may be invisible; but it can still be copied. See this guide for more info: https://icomoon.io/#docs/local-fonts
+Open **demo.html** to view a comprehensive list of all the glyphs available in your font, along with their corresponding codes and ligatures.
 
-You won't need any of the files located under the *demo-files* directory when including the generated font in your own projects.
+### Using the Font
 
-You can import *selection.json* back to the IcoMoon app using the *Import Icons* button (or via Main Menu → Manage Projects) to retrieve your icon selection.
+To utilize the generated TTF font in desktop applications, simply install the font file. To copy the character associated with each icon, refer to the text box located in the bottom right corner of each glyph in **demo.html**. Please note that the character inside this text box may be invisible, but it can still be copied. For further guidance, check out this [IcoMoon documentation on local fonts](https://icomoon.io/#docs/local-fonts).
+
+### Important Notes
+
+- The files in the **demo-files** directory are not required for integrating the generated font into your projects.
+- You can easily import **selection.json** back into the IcoMoon app using the **Import Icons** button or by navigating to **Main Menu → Manage Projects** to retrieve your selected icons.
